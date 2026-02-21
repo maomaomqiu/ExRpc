@@ -1,0 +1,13 @@
+F:\project\LJCode\Lemall.git\netcore\ExRpc\ExRpc.Common\bin\Release\netstandard2.0\ExRpc.Common.deps.json
+F:\project\LJCode\Lemall.git\netcore\ExRpc\ExRpc.Common\bin\Release\netstandard2.0\ExRpc.Common.dll
+F:\project\LJCode\Lemall.git\netcore\ExRpc\ExRpc.Common\bin\Release\netstandard2.0\ExRpc.Common.pdb
+F:\project\LJCode\Lemall.git\netcore\ExRpc\ExRpc.Common\bin\Release\netstandard2.0\NetEZ.Core.dll
+F:\project\LJCode\Lemall.git\netcore\ExRpc\ExRpc.Common\bin\Release\netstandard2.0\NetEZ.Utility.dll
+F:\project\LJCode\Lemall.git\netcore\ExRpc\ExRpc.Common\bin\Release\netstandard2.0\NetEZ.Core.pdb
+F:\project\LJCode\Lemall.git\netcore\ExRpc\ExRpc.Common\bin\Release\netstandard2.0\NetEZ.Utility.pdb
+F:\project\LJCode\Lemall.git\netcore\ExRpc\ExRpc.Common\obj\Release\netstandard2.0\ExRpc.Common.csprojAssemblyReference.cache
+F:\project\LJCode\Lemall.git\netcore\ExRpc\ExRpc.Common\obj\Release\netstandard2.0\ExRpc.Common.AssemblyInfoInputs.cache
+F:\project\LJCode\Lemall.git\netcore\ExRpc\ExRpc.Common\obj\Release\netstandard2.0\ExRpc.Common.AssemblyInfo.cs
+F:\project\LJCode\Lemall.git\netcore\ExRpc\ExRpc.Common\obj\Release\netstandard2.0\ExRpc.Common.csproj.CopyComplete
+F:\project\LJCode\Lemall.git\netcore\ExRpc\ExRpc.Common\obj\Release\netstandard2.0\ExRpc.Common.dll
+F:\project\LJCode\Lemall.git\netcore\ExRpc\ExRpc.Common\obj\Release\netstandard2.0\ExRpc.Common.pdb

@@ -1,0 +1,5 @@
+[2020-04-01 07:06:54.443 GMT 	WARNING 	ClientCnxn 	Client session timed out, have not heard from server in 5557ms for sessionid 0x1011bbd51a5007e] 	
+[2020-04-01 07:06:58.497 GMT 	WARNING 	ClientCnxn 	Client session timed out, have not heard from server in 4010ms for sessionid 0x1011bbd51a5007e] 	
+[2020-04-01 07:07:02.523 GMT 	WARNING 	ClientCnxn 	Client session timed out, have not heard from server in 4001ms for sessionid 0x1011bbd51a5007e] 	
+[2020-04-01 07:07:06.544 GMT 	WARNING 	ClientCnxn 	Client session timed out, have not heard from server in 4000ms for sessionid 0x1011bbd51a5007e] 	
+[2020-04-01 07:07:08.116 GMT 	WARNING 	ClientCnxn 	Unable to reconnect to ZooKeeper service, session 0x1011bbd51a5007e has expired] 	

@@ -1,0 +1,13 @@
+F:\project\LJCode\Lemall.git\netcore\ExRpc\ExRpc.Messaging\bin\Release\netstandard2.1\ExRpc.Messaging.deps.json
+F:\project\LJCode\Lemall.git\netcore\ExRpc\ExRpc.Messaging\bin\Release\netstandard2.1\ExRpc.Messaging.dll
+F:\project\LJCode\Lemall.git\netcore\ExRpc\ExRpc.Messaging\bin\Release\netstandard2.1\ExRpc.Messaging.pdb
+F:\project\LJCode\Lemall.git\netcore\ExRpc\ExRpc.Messaging\bin\Release\netstandard2.1\NetEZ.Core.dll
+F:\project\LJCode\Lemall.git\netcore\ExRpc\ExRpc.Messaging\bin\Release\netstandard2.1\NetEZ.Utility.dll
+F:\project\LJCode\Lemall.git\netcore\ExRpc\ExRpc.Messaging\bin\Release\netstandard2.1\NetEZ.Core.pdb
+F:\project\LJCode\Lemall.git\netcore\ExRpc\ExRpc.Messaging\bin\Release\netstandard2.1\NetEZ.Utility.pdb
+F:\project\LJCode\Lemall.git\netcore\ExRpc\ExRpc.Messaging\obj\Release\netstandard2.1\ExRpc.Messaging.csprojAssemblyReference.cache
+F:\project\LJCode\Lemall.git\netcore\ExRpc\ExRpc.Messaging\obj\Release\netstandard2.1\ExRpc.Messaging.AssemblyInfoInputs.cache
+F:\project\LJCode\Lemall.git\netcore\ExRpc\ExRpc.Messaging\obj\Release\netstandard2.1\ExRpc.Messaging.AssemblyInfo.cs
+F:\project\LJCode\Lemall.git\netcore\ExRpc\ExRpc.Messaging\obj\Release\netstandard2.1\ExRpc.Messaging.csproj.CopyComplete
+F:\project\LJCode\Lemall.git\netcore\ExRpc\ExRpc.Messaging\obj\Release\netstandard2.1\ExRpc.Messaging.dll
+F:\project\LJCode\Lemall.git\netcore\ExRpc\ExRpc.Messaging\obj\Release\netstandard2.1\ExRpc.Messaging.pdb

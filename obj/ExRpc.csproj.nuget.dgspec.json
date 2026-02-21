@@ -1,0 +1,59 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\project\\LJCode\\Lemall.git\\netcore\\ExRpc\\ExRpc.csproj": {}
+  },
+  "projects": {
+    "F:\\project\\LJCode\\Lemall.git\\netcore\\ExRpc\\ExRpc.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\project\\LJCode\\Lemall.git\\netcore\\ExRpc\\ExRpc.csproj",
+        "projectName": "ExRpc",
+        "projectPath": "F:\\project\\LJCode\\Lemall.git\\netcore\\ExRpc\\ExRpc.csproj",
+        "packagesPath": "C:\\Users\\xiongly.LJLX\\.nuget\\packages\\",
+        "outputPath": "F:\\project\\LJCode\\Lemall.git\\netcore\\ExRpc\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\xiongly.LJLX\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\xiongly.LJLX\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\xiongly.LJLX\\.nuget\\packages"
+    ]
+  }
+}

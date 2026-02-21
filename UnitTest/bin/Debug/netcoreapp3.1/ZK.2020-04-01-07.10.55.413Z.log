@@ -1,0 +1,166 @@
+[2020-04-01 07:11:00.371 GMT 	WARNING 	ClientCnxn 	Client session timed out, have not heard from server in 4683ms for sessionid 0x0] 	
+[2020-04-01 07:11:32.256 GMT 	WARNING 	ClientCnxn 	Unable to reconnect to ZooKeeper service, session 0x1011bbd51a50083 has expired] 	
+[2020-04-01 07:13:35.336 GMT 	WARNING 	ClientCnxn 	Unable to reconnect to ZooKeeper service, session 0x1011bbd51a50084 has expired] 	
+[2020-04-01 07:14:00.412 GMT 	WARNING 	ClientCnxn 	Client session timed out, have not heard from server in 20273ms for sessionid 0x0] 	
+[2020-04-01 07:14:19.153 GMT 	WARNING 	ClientCnxn 	Client session timed out, have not heard from server in 9725ms for sessionid 0x0] 	
+[2020-04-01 07:14:26.339 GMT 	WARNING 	ClientCnxn 	Session 0x1011bbd51a50084 for server {192.168.13.138:2181}, unexpected error, closing socket connection and attempting reconnect] 	
+Exc level 0: System.ObjectDisposedException: Cannot access a closed Stream.
+   at System.IO.MemoryStream.set_Position(Int64 value)
+   at org.apache.utils.ByteBuffer.clear() in D:\ZooKeeper\src\csharp\src\ZooKeeperNetEx\utils\ByteBuffer.cs:line 35
+   at org.apache.zookeeper.ClientCnxnSocketNIO.connect(IPEndPoint addr) in D:\ZooKeeper\src\csharp\src\ZooKeeperNetEx\zookeeper\ClientCnxnSocketNIO.cs:line 224
+   at org.apache.zookeeper.ClientCnxn.startConnect(ResolvedEndPoint addr) in D:\ZooKeeper\src\csharp\src\ZooKeeperNetEx\zookeeper\ClientCnxn.cs:line 632
+   at org.apache.zookeeper.ClientCnxn.startSendTask() in D:\ZooKeeper\src\csharp\src\ZooKeeperNetEx\zookeeper\ClientCnxn.cs:line 672
+[2020-04-01 07:14:36.802 GMT 	WARNING 	ClientCnxn 	Client session timed out, have not heard from server in 10585ms for sessionid 0x0] 	
+[2020-04-01 07:14:43.516 GMT 	WARNING 	ClientCnxn 	Session 0x1011bbd51a50084 for server {192.168.13.138:2181}, unexpected error, closing socket connection and attempting reconnect] 	
+Exc level 0: System.ObjectDisposedException: Cannot access a closed Stream.
+   at System.IO.MemoryStream.set_Position(Int64 value)
+   at org.apache.utils.ByteBuffer.clear() in D:\ZooKeeper\src\csharp\src\ZooKeeperNetEx\utils\ByteBuffer.cs:line 35
+   at org.apache.zookeeper.ClientCnxnSocketNIO.connect(IPEndPoint addr) in D:\ZooKeeper\src\csharp\src\ZooKeeperNetEx\zookeeper\ClientCnxnSocketNIO.cs:line 224
+   at org.apache.zookeeper.ClientCnxn.startConnect(ResolvedEndPoint addr) in D:\ZooKeeper\src\csharp\src\ZooKeeperNetEx\zookeeper\ClientCnxn.cs:line 632
+   at org.apache.zookeeper.ClientCnxn.startSendTask() in D:\ZooKeeper\src\csharp\src\ZooKeeperNetEx\zookeeper\ClientCnxn.cs:line 672
+[2020-04-01 07:14:48.033 GMT 	WARNING 	ClientCnxn 	Client session timed out, have not heard from server in 4585ms for sessionid 0x1011bbd51a50086] 	
+[2020-04-01 07:14:55.119 GMT 	WARNING 	ClientCnxn 	Session 0x1011bbd51a50084 for server {192.168.13.138:2181}, unexpected error, closing socket connection and attempting reconnect] 	
+Exc level 0: System.ObjectDisposedException: Cannot access a closed Stream.
+   at System.IO.MemoryStream.set_Position(Int64 value)
+   at org.apache.utils.ByteBuffer.clear() in D:\ZooKeeper\src\csharp\src\ZooKeeperNetEx\utils\ByteBuffer.cs:line 35
+   at org.apache.zookeeper.ClientCnxnSocketNIO.connect(IPEndPoint addr) in D:\ZooKeeper\src\csharp\src\ZooKeeperNetEx\zookeeper\ClientCnxnSocketNIO.cs:line 224
+   at org.apache.zookeeper.ClientCnxn.startConnect(ResolvedEndPoint addr) in D:\ZooKeeper\src\csharp\src\ZooKeeperNetEx\zookeeper\ClientCnxn.cs:line 632
+   at org.apache.zookeeper.ClientCnxn.startSendTask() in D:\ZooKeeper\src\csharp\src\ZooKeeperNetEx\zookeeper\ClientCnxn.cs:line 672
+[2020-04-01 07:15:05.455 GMT 	WARNING 	ClientCnxn 	Client session timed out, have not heard from server in 11329ms for sessionid 0x1011bbd51a50086] 	
+[2020-04-01 07:15:10.891 GMT 	WARNING 	ClientCnxn 	Session 0x1011bbd51a50084 for server {192.168.13.138:2181}, unexpected error, closing socket connection and attempting reconnect] 	
+Exc level 0: System.ObjectDisposedException: Cannot access a closed Stream.
+   at System.IO.MemoryStream.set_Position(Int64 value)
+   at org.apache.utils.ByteBuffer.clear() in D:\ZooKeeper\src\csharp\src\ZooKeeperNetEx\utils\ByteBuffer.cs:line 35
+   at org.apache.zookeeper.ClientCnxnSocketNIO.connect(IPEndPoint addr) in D:\ZooKeeper\src\csharp\src\ZooKeeperNetEx\zookeeper\ClientCnxnSocketNIO.cs:line 224
+   at org.apache.zookeeper.ClientCnxn.startConnect(ResolvedEndPoint addr) in D:\ZooKeeper\src\csharp\src\ZooKeeperNetEx\zookeeper\ClientCnxn.cs:line 632
+   at org.apache.zookeeper.ClientCnxn.startSendTask() in D:\ZooKeeper\src\csharp\src\ZooKeeperNetEx\zookeeper\ClientCnxn.cs:line 672
+[2020-04-01 07:15:12.205 GMT 	WARNING 	ClientCnxn 	Unable to reconnect to ZooKeeper service, session 0x1011bbd51a50086 has expired] 	
+[2020-04-01 07:15:16.176 GMT 	WARNING 	ClientCnxn 	Session 0x1011bbd51a50084 for server {192.168.13.138:2181}, unexpected error, closing socket connection and attempting reconnect] 	
+Exc level 0: System.ObjectDisposedException: Cannot access a closed Stream.
+   at System.IO.MemoryStream.set_Position(Int64 value)
+   at org.apache.utils.ByteBuffer.clear() in D:\ZooKeeper\src\csharp\src\ZooKeeperNetEx\utils\ByteBuffer.cs:line 35
+   at org.apache.zookeeper.ClientCnxnSocketNIO.connect(IPEndPoint addr) in D:\ZooKeeper\src\csharp\src\ZooKeeperNetEx\zookeeper\ClientCnxnSocketNIO.cs:line 224
+   at org.apache.zookeeper.ClientCnxn.startConnect(ResolvedEndPoint addr) in D:\ZooKeeper\src\csharp\src\ZooKeeperNetEx\zookeeper\ClientCnxn.cs:line 632
+   at org.apache.zookeeper.ClientCnxn.startSendTask() in D:\ZooKeeper\src\csharp\src\ZooKeeperNetEx\zookeeper\ClientCnxn.cs:line 672
+[2020-04-01 07:15:23.027 GMT 	WARNING 	ClientCnxn 	Client session timed out, have not heard from server in 3214ms for sessionid 0x1011bbd51a50087] 	
+[2020-04-01 07:15:23.796 GMT 	WARNING 	ClientCnxn 	Session 0x1011bbd51a50084 for server {192.168.13.138:2181}, unexpected error, closing socket connection and attempting reconnect] 	
+Exc level 0: System.ObjectDisposedException: Cannot access a closed Stream.
+   at System.IO.MemoryStream.set_Position(Int64 value)
+   at org.apache.utils.ByteBuffer.clear() in D:\ZooKeeper\src\csharp\src\ZooKeeperNetEx\utils\ByteBuffer.cs:line 35
+   at org.apache.zookeeper.ClientCnxnSocketNIO.connect(IPEndPoint addr) in D:\ZooKeeper\src\csharp\src\ZooKeeperNetEx\zookeeper\ClientCnxnSocketNIO.cs:line 224
+   at org.apache.zookeeper.ClientCnxn.startConnect(ResolvedEndPoint addr) in D:\ZooKeeper\src\csharp\src\ZooKeeperNetEx\zookeeper\ClientCnxn.cs:line 632
+   at org.apache.zookeeper.ClientCnxn.startSendTask() in D:\ZooKeeper\src\csharp\src\ZooKeeperNetEx\zookeeper\ClientCnxn.cs:line 672
+[2020-04-01 07:15:28.882 GMT 	WARNING 	ClientCnxn 	Client session timed out, have not heard from server in 5087ms for sessionid 0x1011bbd51a50087] 	
+[2020-04-01 07:15:30.673 GMT 	WARNING 	ClientCnxn 	Session 0x1011bbd51a50084 for server {192.168.13.138:2181}, unexpected error, closing socket connection and attempting reconnect] 	
+Exc level 0: System.ObjectDisposedException: Cannot access a closed Stream.
+   at System.IO.MemoryStream.set_Position(Int64 value)
+   at org.apache.utils.ByteBuffer.clear() in D:\ZooKeeper\src\csharp\src\ZooKeeperNetEx\utils\ByteBuffer.cs:line 35
+   at org.apache.zookeeper.ClientCnxnSocketNIO.connect(IPEndPoint addr) in D:\ZooKeeper\src\csharp\src\ZooKeeperNetEx\zookeeper\ClientCnxnSocketNIO.cs:line 224
+   at org.apache.zookeeper.ClientCnxn.startConnect(ResolvedEndPoint addr) in D:\ZooKeeper\src\csharp\src\ZooKeeperNetEx\zookeeper\ClientCnxn.cs:line 632
+   at org.apache.zookeeper.ClientCnxn.startSendTask() in D:\ZooKeeper\src\csharp\src\ZooKeeperNetEx\zookeeper\ClientCnxn.cs:line 672
+[2020-04-01 07:15:32.986 GMT 	WARNING 	ClientCnxn 	Unable to reconnect to ZooKeeper service, session 0x1011bbd51a50087 has expired] 	
+[2020-04-01 07:15:33.948 GMT 	WARNING 	ClientCnxn 	Session 0x1011bbd51a50084 for server {192.168.13.138:2181}, unexpected error, closing socket connection and attempting reconnect] 	
+Exc level 0: System.ObjectDisposedException: Cannot access a closed Stream.
+   at System.IO.MemoryStream.set_Position(Int64 value)
+   at org.apache.utils.ByteBuffer.clear() in D:\ZooKeeper\src\csharp\src\ZooKeeperNetEx\utils\ByteBuffer.cs:line 35
+   at org.apache.zookeeper.ClientCnxnSocketNIO.connect(IPEndPoint addr) in D:\ZooKeeper\src\csharp\src\ZooKeeperNetEx\zookeeper\ClientCnxnSocketNIO.cs:line 224
+   at org.apache.zookeeper.ClientCnxn.startConnect(ResolvedEndPoint addr) in D:\ZooKeeper\src\csharp\src\ZooKeeperNetEx\zookeeper\ClientCnxn.cs:line 632
+   at org.apache.zookeeper.ClientCnxn.startSendTask() in D:\ZooKeeper\src\csharp\src\ZooKeeperNetEx\zookeeper\ClientCnxn.cs:line 672
+[2020-04-01 07:15:40.592 GMT 	WARNING 	ClientCnxn 	Session 0x1011bbd51a50084 for server {192.168.13.138:2181}, unexpected error, closing socket connection and attempting reconnect] 	
+Exc level 0: System.ObjectDisposedException: Cannot access a closed Stream.
+   at System.IO.MemoryStream.set_Position(Int64 value)
+   at org.apache.utils.ByteBuffer.clear() in D:\ZooKeeper\src\csharp\src\ZooKeeperNetEx\utils\ByteBuffer.cs:line 35
+   at org.apache.zookeeper.ClientCnxnSocketNIO.connect(IPEndPoint addr) in D:\ZooKeeper\src\csharp\src\ZooKeeperNetEx\zookeeper\ClientCnxnSocketNIO.cs:line 224
+   at org.apache.zookeeper.ClientCnxn.startConnect(ResolvedEndPoint addr) in D:\ZooKeeper\src\csharp\src\ZooKeeperNetEx\zookeeper\ClientCnxn.cs:line 632
+   at org.apache.zookeeper.ClientCnxn.startSendTask() in D:\ZooKeeper\src\csharp\src\ZooKeeperNetEx\zookeeper\ClientCnxn.cs:line 672
+[2020-04-01 07:15:44.044 GMT 	WARNING 	ClientCnxn 	Session 0x1011bbd51a50084 for server {192.168.13.138:2181}, unexpected error, closing socket connection and attempting reconnect] 	
+Exc level 0: System.ObjectDisposedException: Cannot access a closed Stream.
+   at System.IO.MemoryStream.set_Position(Int64 value)
+   at org.apache.utils.ByteBuffer.clear() in D:\ZooKeeper\src\csharp\src\ZooKeeperNetEx\utils\ByteBuffer.cs:line 35
+   at org.apache.zookeeper.ClientCnxnSocketNIO.connect(IPEndPoint addr) in D:\ZooKeeper\src\csharp\src\ZooKeeperNetEx\zookeeper\ClientCnxnSocketNIO.cs:line 224
+   at org.apache.zookeeper.ClientCnxn.startConnect(ResolvedEndPoint addr) in D:\ZooKeeper\src\csharp\src\ZooKeeperNetEx\zookeeper\ClientCnxn.cs:line 632
+   at org.apache.zookeeper.ClientCnxn.startSendTask() in D:\ZooKeeper\src\csharp\src\ZooKeeperNetEx\zookeeper\ClientCnxn.cs:line 672
+[2020-04-01 07:15:45.809 GMT 	WARNING 	ClientCnxn 	Session 0x1011bbd51a50084 for server {192.168.13.138:2181}, unexpected error, closing socket connection and attempting reconnect] 	
+Exc level 0: System.ObjectDisposedException: Cannot access a closed Stream.
+   at System.IO.MemoryStream.set_Position(Int64 value)
+   at org.apache.utils.ByteBuffer.clear() in D:\ZooKeeper\src\csharp\src\ZooKeeperNetEx\utils\ByteBuffer.cs:line 35
+   at org.apache.zookeeper.ClientCnxnSocketNIO.connect(IPEndPoint addr) in D:\ZooKeeper\src\csharp\src\ZooKeeperNetEx\zookeeper\ClientCnxnSocketNIO.cs:line 224
+   at org.apache.zookeeper.ClientCnxn.startConnect(ResolvedEndPoint addr) in D:\ZooKeeper\src\csharp\src\ZooKeeperNetEx\zookeeper\ClientCnxn.cs:line 632
+   at org.apache.zookeeper.ClientCnxn.startSendTask() in D:\ZooKeeper\src\csharp\src\ZooKeeperNetEx\zookeeper\ClientCnxn.cs:line 672
+[2020-04-01 07:15:47.414 GMT 	WARNING 	ClientCnxn 	Session 0x1011bbd51a50084 for server {192.168.13.138:2181}, unexpected error, closing socket connection and attempting reconnect] 	
+Exc level 0: System.ObjectDisposedException: Cannot access a closed Stream.
+   at System.IO.MemoryStream.set_Position(Int64 value)
+   at org.apache.utils.ByteBuffer.clear() in D:\ZooKeeper\src\csharp\src\ZooKeeperNetEx\utils\ByteBuffer.cs:line 35
+   at org.apache.zookeeper.ClientCnxnSocketNIO.connect(IPEndPoint addr) in D:\ZooKeeper\src\csharp\src\ZooKeeperNetEx\zookeeper\ClientCnxnSocketNIO.cs:line 224
+   at org.apache.zookeeper.ClientCnxn.startConnect(ResolvedEndPoint addr) in D:\ZooKeeper\src\csharp\src\ZooKeeperNetEx\zookeeper\ClientCnxn.cs:line 632
+   at org.apache.zookeeper.ClientCnxn.startSendTask() in D:\ZooKeeper\src\csharp\src\ZooKeeperNetEx\zookeeper\ClientCnxn.cs:line 672
+[2020-04-01 07:15:49.017 GMT 	WARNING 	ClientCnxn 	Session 0x1011bbd51a50084 for server {192.168.13.138:2181}, unexpected error, closing socket connection and attempting reconnect] 	
+Exc level 0: System.ObjectDisposedException: Cannot access a closed Stream.
+   at System.IO.MemoryStream.set_Position(Int64 value)
+   at org.apache.utils.ByteBuffer.clear() in D:\ZooKeeper\src\csharp\src\ZooKeeperNetEx\utils\ByteBuffer.cs:line 35
+   at org.apache.zookeeper.ClientCnxnSocketNIO.connect(IPEndPoint addr) in D:\ZooKeeper\src\csharp\src\ZooKeeperNetEx\zookeeper\ClientCnxnSocketNIO.cs:line 224
+   at org.apache.zookeeper.ClientCnxn.startConnect(ResolvedEndPoint addr) in D:\ZooKeeper\src\csharp\src\ZooKeeperNetEx\zookeeper\ClientCnxn.cs:line 632
+   at org.apache.zookeeper.ClientCnxn.startSendTask() in D:\ZooKeeper\src\csharp\src\ZooKeeperNetEx\zookeeper\ClientCnxn.cs:line 672
+[2020-04-01 07:15:50.658 GMT 	WARNING 	ClientCnxn 	Session 0x1011bbd51a50084 for server {192.168.13.138:2181}, unexpected error, closing socket connection and attempting reconnect] 	
+Exc level 0: System.ObjectDisposedException: Cannot access a closed Stream.
+   at System.IO.MemoryStream.set_Position(Int64 value)
+   at org.apache.utils.ByteBuffer.clear() in D:\ZooKeeper\src\csharp\src\ZooKeeperNetEx\utils\ByteBuffer.cs:line 35
+   at org.apache.zookeeper.ClientCnxnSocketNIO.connect(IPEndPoint addr) in D:\ZooKeeper\src\csharp\src\ZooKeeperNetEx\zookeeper\ClientCnxnSocketNIO.cs:line 224
+   at org.apache.zookeeper.ClientCnxn.startConnect(ResolvedEndPoint addr) in D:\ZooKeeper\src\csharp\src\ZooKeeperNetEx\zookeeper\ClientCnxn.cs:line 632
+   at org.apache.zookeeper.ClientCnxn.startSendTask() in D:\ZooKeeper\src\csharp\src\ZooKeeperNetEx\zookeeper\ClientCnxn.cs:line 672
+[2020-04-01 07:15:52.127 GMT 	WARNING 	ClientCnxn 	Session 0x1011bbd51a50084 for server {192.168.13.138:2181}, unexpected error, closing socket connection and attempting reconnect] 	
+Exc level 0: System.ObjectDisposedException: Cannot access a closed Stream.
+   at System.IO.MemoryStream.set_Position(Int64 value)
+   at org.apache.utils.ByteBuffer.clear() in D:\ZooKeeper\src\csharp\src\ZooKeeperNetEx\utils\ByteBuffer.cs:line 35
+   at org.apache.zookeeper.ClientCnxnSocketNIO.connect(IPEndPoint addr) in D:\ZooKeeper\src\csharp\src\ZooKeeperNetEx\zookeeper\ClientCnxnSocketNIO.cs:line 224
+   at org.apache.zookeeper.ClientCnxn.startConnect(ResolvedEndPoint addr) in D:\ZooKeeper\src\csharp\src\ZooKeeperNetEx\zookeeper\ClientCnxn.cs:line 632
+   at org.apache.zookeeper.ClientCnxn.startSendTask() in D:\ZooKeeper\src\csharp\src\ZooKeeperNetEx\zookeeper\ClientCnxn.cs:line 672
+[2020-04-01 07:15:53.393 GMT 	WARNING 	ClientCnxn 	Session 0x1011bbd51a50084 for server {192.168.13.138:2181}, unexpected error, closing socket connection and attempting reconnect] 	
+Exc level 0: System.ObjectDisposedException: Cannot access a closed Stream.
+   at System.IO.MemoryStream.set_Position(Int64 value)
+   at org.apache.utils.ByteBuffer.clear() in D:\ZooKeeper\src\csharp\src\ZooKeeperNetEx\utils\ByteBuffer.cs:line 35
+   at org.apache.zookeeper.ClientCnxnSocketNIO.connect(IPEndPoint addr) in D:\ZooKeeper\src\csharp\src\ZooKeeperNetEx\zookeeper\ClientCnxnSocketNIO.cs:line 224
+   at org.apache.zookeeper.ClientCnxn.startConnect(ResolvedEndPoint addr) in D:\ZooKeeper\src\csharp\src\ZooKeeperNetEx\zookeeper\ClientCnxn.cs:line 632
+   at org.apache.zookeeper.ClientCnxn.startSendTask() in D:\ZooKeeper\src\csharp\src\ZooKeeperNetEx\zookeeper\ClientCnxn.cs:line 672
+[2020-04-01 07:15:55.221 GMT 	WARNING 	ClientCnxn 	Session 0x1011bbd51a50084 for server {192.168.13.138:2181}, unexpected error, closing socket connection and attempting reconnect] 	
+Exc level 0: System.ObjectDisposedException: Cannot access a closed Stream.
+   at System.IO.MemoryStream.set_Position(Int64 value)
+   at org.apache.utils.ByteBuffer.clear() in D:\ZooKeeper\src\csharp\src\ZooKeeperNetEx\utils\ByteBuffer.cs:line 35
+   at org.apache.zookeeper.ClientCnxnSocketNIO.connect(IPEndPoint addr) in D:\ZooKeeper\src\csharp\src\ZooKeeperNetEx\zookeeper\ClientCnxnSocketNIO.cs:line 224
+   at org.apache.zookeeper.ClientCnxn.startConnect(ResolvedEndPoint addr) in D:\ZooKeeper\src\csharp\src\ZooKeeperNetEx\zookeeper\ClientCnxn.cs:line 632
+   at org.apache.zookeeper.ClientCnxn.startSendTask() in D:\ZooKeeper\src\csharp\src\ZooKeeperNetEx\zookeeper\ClientCnxn.cs:line 672
+[2020-04-01 07:15:56.474 GMT 	WARNING 	ClientCnxn 	Session 0x1011bbd51a50084 for server {192.168.13.138:2181}, unexpected error, closing socket connection and attempting reconnect] 	
+Exc level 0: System.ObjectDisposedException: Cannot access a closed Stream.
+   at System.IO.MemoryStream.set_Position(Int64 value)
+   at org.apache.utils.ByteBuffer.clear() in D:\ZooKeeper\src\csharp\src\ZooKeeperNetEx\utils\ByteBuffer.cs:line 35
+   at org.apache.zookeeper.ClientCnxnSocketNIO.connect(IPEndPoint addr) in D:\ZooKeeper\src\csharp\src\ZooKeeperNetEx\zookeeper\ClientCnxnSocketNIO.cs:line 224
+   at org.apache.zookeeper.ClientCnxn.startConnect(ResolvedEndPoint addr) in D:\ZooKeeper\src\csharp\src\ZooKeeperNetEx\zookeeper\ClientCnxn.cs:line 632
+   at org.apache.zookeeper.ClientCnxn.startSendTask() in D:\ZooKeeper\src\csharp\src\ZooKeeperNetEx\zookeeper\ClientCnxn.cs:line 672
+[2020-04-01 07:15:58.157 GMT 	WARNING 	ClientCnxn 	Session 0x1011bbd51a50084 for server {192.168.13.138:2181}, unexpected error, closing socket connection and attempting reconnect] 	
+Exc level 0: System.ObjectDisposedException: Cannot access a closed Stream.
+   at System.IO.MemoryStream.set_Position(Int64 value)
+   at org.apache.utils.ByteBuffer.clear() in D:\ZooKeeper\src\csharp\src\ZooKeeperNetEx\utils\ByteBuffer.cs:line 35
+   at org.apache.zookeeper.ClientCnxnSocketNIO.connect(IPEndPoint addr) in D:\ZooKeeper\src\csharp\src\ZooKeeperNetEx\zookeeper\ClientCnxnSocketNIO.cs:line 224
+   at org.apache.zookeeper.ClientCnxn.startConnect(ResolvedEndPoint addr) in D:\ZooKeeper\src\csharp\src\ZooKeeperNetEx\zookeeper\ClientCnxn.cs:line 632
+   at org.apache.zookeeper.ClientCnxn.startSendTask() in D:\ZooKeeper\src\csharp\src\ZooKeeperNetEx\zookeeper\ClientCnxn.cs:line 672
+[2020-04-01 07:15:59.500 GMT 	WARNING 	ClientCnxn 	Session 0x1011bbd51a50084 for server {192.168.13.138:2181}, unexpected error, closing socket connection and attempting reconnect] 	
+Exc level 0: System.ObjectDisposedException: Cannot access a closed Stream.
+   at System.IO.MemoryStream.set_Position(Int64 value)
+   at org.apache.utils.ByteBuffer.clear() in D:\ZooKeeper\src\csharp\src\ZooKeeperNetEx\utils\ByteBuffer.cs:line 35
+   at org.apache.zookeeper.ClientCnxnSocketNIO.connect(IPEndPoint addr) in D:\ZooKeeper\src\csharp\src\ZooKeeperNetEx\zookeeper\ClientCnxnSocketNIO.cs:line 224
+   at org.apache.zookeeper.ClientCnxn.startConnect(ResolvedEndPoint addr) in D:\ZooKeeper\src\csharp\src\ZooKeeperNetEx\zookeeper\ClientCnxn.cs:line 632
+   at org.apache.zookeeper.ClientCnxn.startSendTask() in D:\ZooKeeper\src\csharp\src\ZooKeeperNetEx\zookeeper\ClientCnxn.cs:line 672
+[2020-04-01 07:16:01.467 GMT 	WARNING 	ClientCnxn 	Session 0x1011bbd51a50084 for server {192.168.13.138:2181}, unexpected error, closing socket connection and attempting reconnect] 	
+Exc level 0: System.ObjectDisposedException: Cannot access a closed Stream.
+   at System.IO.MemoryStream.set_Position(Int64 value)
+   at org.apache.utils.ByteBuffer.clear() in D:\ZooKeeper\src\csharp\src\ZooKeeperNetEx\utils\ByteBuffer.cs:line 35
+   at org.apache.zookeeper.ClientCnxnSocketNIO.connect(IPEndPoint addr) in D:\ZooKeeper\src\csharp\src\ZooKeeperNetEx\zookeeper\ClientCnxnSocketNIO.cs:line 224
+   at org.apache.zookeeper.ClientCnxn.startConnect(ResolvedEndPoint addr) in D:\ZooKeeper\src\csharp\src\ZooKeeperNetEx\zookeeper\ClientCnxn.cs:line 632
+   at org.apache.zookeeper.ClientCnxn.startSendTask() in D:\ZooKeeper\src\csharp\src\ZooKeeperNetEx\zookeeper\ClientCnxn.cs:line 672
+[2020-04-01 07:16:03.326 GMT 	WARNING 	ClientCnxn 	Session 0x1011bbd51a50084 for server {192.168.13.138:2181}, unexpected error, closing socket connection and attempting reconnect] 	
+Exc level 0: System.ObjectDisposedException: Cannot access a closed Stream.
+   at System.IO.MemoryStream.set_Position(Int64 value)
+   at org.apache.utils.ByteBuffer.clear() in D:\ZooKeeper\src\csharp\src\ZooKeeperNetEx\utils\ByteBuffer.cs:line 35
+   at org.apache.zookeeper.ClientCnxnSocketNIO.connect(IPEndPoint addr) in D:\ZooKeeper\src\csharp\src\ZooKeeperNetEx\zookeeper\ClientCnxnSocketNIO.cs:line 224
+   at org.apache.zookeeper.ClientCnxn.startConnect(ResolvedEndPoint addr) in D:\ZooKeeper\src\csharp\src\ZooKeeperNetEx\zookeeper\ClientCnxn.cs:line 632
+   at org.apache.zookeeper.ClientCnxn.startSendTask() in D:\ZooKeeper\src\csharp\src\ZooKeeperNetEx\zookeeper\ClientCnxn.cs:line 672
